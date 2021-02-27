@@ -8,3 +8,4 @@ Stome motors is an e-commerce company who act as mediators between parties intre
 For the year 2015-2016, they have eceved data about the seller and car including - Specification, condition of car,
 Seller details, Registraton details, Web advertisement details, Make and model information, Price.¶
 Strome motors wishes to develop an algorithm to pedict the price of the cars based on various attributes associated with the car.
+it is done using linear regression
